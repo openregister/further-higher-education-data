@@ -1,0 +1,167 @@
+website,name
+http://www.anglia.ac.uk/,Anglia Ruskin University
+http://www.aston.ac.uk/,Aston University
+http://www.bangor.ac.uk/,Bangor University
+http://www.bathspa.ac.uk/,Bath Spa University
+http://www.bbk.ac.uk/,Birkbeck College
+http://www.bcu.ac.uk/,Birmingham City University
+http://www.bishopg.ac.uk/,Bishop Grosseteste University College Lincoln
+http://www.bournemouth.ac.uk/,Bournemouth University
+http://www.brunel.ac.uk/,Brunel University
+http://www.bucks.ac.uk/,Buckinghamshire New University
+http://www.canterbury.ac.uk/,Canterbury Christ Church University
+http://www.cardiffmet.ac.uk/,Cardiff Metropolitan University
+http://www.cardiff.ac.uk/,Cardiff University
+http://www.cssd.ac.uk/,Central School of Speech and Drama(The)
+http://www.courtauld.ac.uk/,Courtauld Institute of Art
+http://www.coventry.ac.uk/,Coventry University
+http://www.cranfield.ac.uk/,Cranfield University
+http://www.dmu.ac.uk/,De Montfort University
+http://www.edgehill.ac.uk/,Edge Hill University
+http://www.napier.ac.uk/,Edinburgh Napier University
+http://www.gcu.ac.uk/,Glasgow Caledonian University
+http://www.gsa.ac.uk/,Glasgow School of Art
+http://www.glyndwr.ac.uk/,Glyndwr University
+http://www.gold.ac.uk/,Goldsmiths' College
+http://www.gsmd.ac.uk/,Guildhall School of Music and Drama
+http://www.harper-adams.ac.uk/,Harper Adams University
+http://www.hw.ac.uk/,Heriot-Watt University
+http://www.heythrop.ac.uk/,Heythrop College
+http://www.imperial.ac.uk/,"Imperial College of Science, Technology and Medicine"
+http://www.icr.ac.uk/,Institute of Cancer Research: Royal Cancer Hospital (The)
+http://www.ioe.ac.uk/,"Institute of Education, University of London"
+http://www.kcl.ac.uk/,King's College London
+http://www.kingston.ac.uk/,Kingston University
+http://www.leeds-art.ac.uk/,Leeds College of Art
+http://www.lcm.ac.uk/,Leeds College of Music
+http://www.leedsmet.ac.uk/,Leeds Metropolitan University
+http://www.leedstrinity.ac.uk/,Leeds Trinity University College
+http://www.hope.ac.uk/,Liverpool Hope University
+http://www.ljmu.ac.uk/,Liverpool John Moores University
+http://www.london.edu/,London Business School
+http://www.londonmet.ac.uk/,London Metropolitan University
+http://www.lse.ac.uk/,London School of Economics & Political Science
+http://www.lshtm.ac.uk/,London School of Hygiene and Tropical Medicine
+http://www.lsbu.ac.uk/,London South Bank University
+http://www.lboro.ac.uk/,Loughborough University
+http://www.mdx.ac.uk/,Middlesex University
+http://www.newman.ac.uk/,Newman University College
+http://www.nscd.ac.uk/,Northern School of Contemporary Dance
+http://www.nua.ac.uk/,Norwich University College of the Arts
+http://www.ntu.ac.uk/,Nottingham Trent University
+http://www.open.ac.uk/,Open University(The)
+http://www.brookes.ac.uk/,Oxford Brookes University
+http://www.aber.ac.uk/,Prifysgol Aberystwyth
+http://www.qmu.ac.uk/,"Queen Margaret University, Edinburgh"
+http://www.qmul.ac.uk/,"Queen Mary and Westfield College, University of London"
+http://www.rave.ac.uk/,Ravensbourne Limited
+http://www.roehampton.ac.uk/,Roehampton University
+http://www.bruford.ac.uk/,Rose Bruford College
+http://www.ram.ac.uk/,Royal Academy of Music
+http://www.rac.ac.uk/,Royal Agricultural College
+http://www.rca.ac.uk/,Royal College of Art(The)
+http://www.rcm.ac.uk/,Royal College of Music
+http://www.rcs.ac.uk/,Royal Conservatoire of Scotland
+http://www.rhul.ac.uk/,Royal Holloway College and Bedford New College
+http://www.rncm.ac.uk/,Royal Northern College of Music
+http://www.rwcmd.ac.uk/,Royal Welsh College of Music and Drama Limited
+http://www.soas.ac.uk/,School of Oriental and African Studies
+http://www.pharmacy.ac.uk/,School of Pharmacy University of London(The)
+http://www.shu.ac.uk/,Sheffield Hallam University
+http://www.solent.ac.uk/,Southampton Solent University
+http://www.sruc.ac.uk/,Sruc
+http://www.sgul.ac.uk/,St George's Hospital Medical School
+http://www.stmarys-belfast.ac.uk/,St Mary's University College
+http://www.smuc.ac.uk/,"St Mary's University College, Twickenham"
+http://www.staffs.ac.uk/,Staffordshire University
+http://www.stran.ac.uk/,Stranmillis University College
+http://www.smu.ac.uk/,Swansea Metropolitan University
+http://www.swan.ac.uk/,Swansea University
+http://www.tees.ac.uk/,Teesside University
+http://www.aub.ac.uk/,The Arts University College at Bournemouth
+http://www.city.ac.uk/,The City University
+http://www.cdd.ac.uk/,The Conservatoire for Dance and Drama
+http://www.lipa.ac.uk/,The Liverpool Institute for Performing Arts
+http://www.mmu.ac.uk/,The Manchester Metropolitan University
+http://www.qub.ac.uk/,The Queen's University of Belfast
+http://www.rgu.ac.uk/,The Robert Gordon University
+http://www.rvc.ac.uk/,The Royal Veterinary College
+http://www.bolton.ac.uk/,The University of Bolton
+http://www.buckingham.ac.uk/,The University of Buckingham
+http://www.chi.ac.uk/,The University of Chichester
+http://www.cumbria.ac.uk/,The University of Cumbria
+http://www.manchester.ac.uk/,The University of Manchester
+http://www.northampton.ac.uk/,The University of Northampton
+http://www.uwl.ac.uk/,The University of West London
+http://www.westminster.ac.uk/,The University of Westminster
+http://www.trinitylaban.ac.uk/,Trinity Laban Conservatoire of Music and Dance Ltd
+http://www.ucs.ac.uk/,University Campus Suffolk Ltd
+http://www.ucb.ac.uk/,University College Birmingham
+http://www.falmouth.ac.uk/,University College Falmouth
+http://www.ucl.ac.uk/,University College London
+http://www.ucreative.ac.uk/,University for the Creative Arts
+http://www.abdn.ac.uk/,University of Aberdeen
+http://www.abertay.ac.uk/,University of Abertay Dundee
+http://www.bath.ac.uk/,University of Bath (The)
+http://www.beds.ac.uk/,University of Bedfordshire
+http://www.birmingham.ac.uk/,University of Birmingham
+http://www.bradford.ac.uk/,University of Bradford
+http://www.brighton.ac.uk/,University of Brighton
+http://www.bristol.ac.uk/,University of Bristol
+http://www.cam.ac.uk/,University of Cambridge
+http://www.uclan.ac.uk/,University of Central Lancashire
+http://www.chester.ac.uk/,University of Chester
+http://www.derby.ac.uk/,University of Derby
+http://www.dundee.ac.uk/,University of Dundee
+http://www.dur.ac.uk/,University of Durham
+http://www.uea.ac.uk/,University of East Anglia
+http://www.uel.ac.uk/,University of East London
+http://www.ed.ac.uk/,University of Edinburgh
+http://www.essex.ac.uk/,University of Essex
+http://www.exeter.ac.uk/,University of Exeter
+http://www.southwales.ac.uk/,University of Glamorgan / Prifysgol Morgannwg
+http://www.gla.ac.uk/,University of Glasgow
+http://www.glos.ac.uk/,University of Gloucestershire
+http://www.greenwich.ac.uk/,University of Greenwich
+http://www.herts.ac.uk/,University of Hertfordshire
+http://www.hud.ac.uk/,University of Huddersfield
+http://www.hull.ac.uk/,University of Hull
+http://www.keele.ac.uk/,University of Keele
+http://www.kent.ac.uk/,University of Kent
+http://www.lancs.ac.uk/,University of Lancaster
+http://www.leeds.ac.uk/,University of Leeds
+http://www.le.ac.uk/,University of Leicester
+http://www.lincoln.ac.uk/,University of Lincoln
+http://www.liv.ac.uk/,University of Liverpool
+http://www.lon.ac.uk/,University of London
+http://www.ncl.ac.uk/,University of Newcastle Upon Tyne
+http://www.northumbria.ac.uk/,University of Northumbria at Newcastle
+http://www.nottingham.ac.uk/,University of Nottingham
+http://www.ox.ac.uk/,University of Oxford
+http://www.plymouth.ac.uk/,University of Plymouth
+http://www.port.ac.uk/,University of Portsmouth
+http://www.reading.ac.uk/,University of Reading
+http://www.salford.ac.uk/,University of Salford
+http://www.shef.ac.uk/,University of Sheffield
+http://www.soton.ac.uk/,University of Southampton
+http://www.st-andrews.ac.uk/,University of St Andrews
+http:///,University of St Mark & St John
+http://www.stir.ac.uk/,University of Stirling
+http://www.strath.ac.uk/,University of Strathclyde
+http://www.sunderland.ac.uk/,University of Sunderland
+http://www.surrey.ac.uk/,University of Surrey
+http://www.sussex.ac.uk/,University of Sussex
+http://www.ulster.ac.uk/,University of Ulster
+http://www.wales.ac.uk/,University of Wales Prifysgol Cymru
+http://www.trinitysaintdavid.ac.uk/,University of Wales: Trinity Saint David
+http://www.warwick.ac.uk/,University of Warwick
+http://www.winchester.ac.uk/,University of Winchester
+http://www.wlv.ac.uk/,University of Wolverhampton
+http://www.worc.ac.uk/,University of Worcester
+http://www.york.ac.uk/,University of York
+http://www.arts.ac.uk/,"University of the Arts, London"
+http://www.uhi.ac.uk/,University of the Highlands and Islands
+http://www.uwe.ac.uk/,"University of the West of England, Bristol"
+http://www.uws.ac.uk/,University of the West of Scotland
+http://www.writtle.ac.uk/,Writtle College
+http://www.yorksj.ac.uk/,York St John University
